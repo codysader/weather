@@ -149,9 +149,11 @@ body,html{
 }
 .sun_9{
     font-size: 20px;
-    margin: 40px 0px 0px 40px;
+    margin: 80px 0px 0px 40px;
     position: absolute;
 }
 .sun_10{
-    
+    font-size: 20px;
+    margin: 55px 0px 0px 300px;
+    position: absolute;
 }
